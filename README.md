@@ -1,6 +1,8 @@
 # GlobeX
 
-### I built a Machine Learing model to predict urban air entrapment using atmospheric variables.
+### Collected datasets from Copernicus Climate Data Store and Central Pollution Control Board of India and cleaned, transformed, integrated and preprocessed for the RF Regressor model. 
+
+### This Machine Learing model predicts urban air entrapment using atmospheric variables.
 
 ### While the model achieved an 86% $R^2$ in normal years, it failed during the 2020 lockdown, proving that weather only traps what humans emit.
 <p align="center">
