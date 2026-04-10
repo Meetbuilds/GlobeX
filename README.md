@@ -9,11 +9,11 @@
 </figure>
 
 <figure>
-  <img src="Performance_graph" alt="Model Performance Graph">
+  <img src="Performance_graph.png" alt="Model Performance Graph">
   <figcaption>Model Performance</figcaption>
 </figure>
 
 <figure>
-  <img src="Inversion graph" alt="Temperature Inversion Graph">
+  <img src="Inversion_graph.png" alt="Temperature Inversion Graph">
   <figcaption>Temperature Inversion</figcaption>
 </figure>
