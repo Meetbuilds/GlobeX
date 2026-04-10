@@ -3,17 +3,20 @@
 ### I built a Machine Learing model to predict urban air entrapment using atmospheric variables.
 
 ### While the model achieved an 86% $R^2$ in normal years, it failed during the 2020 lockdown, proving that weather only traps what humans emit.
-<figure>
-  <img src="Bar_graph.png" alt="Feature Importance Graph">
-  <figcaption>Feature Importance</figcaption>
-</figure>
+<p>
+  <img src="Bar_graph.png" width="300" alt="Feature Importance Graph">
+  <br>
+  <em>Feature Importance</em>
+</p>
 
-<figure>
-  <img src="Performance_graph.png" alt="Model Performance Graph">
-  <figcaption>Model Performance</figcaption>
-</figure>
+<p>
+  <img src="Performance_graph.png" width="300" alt="Model Performance Graph">
+  <br>
+  <em>Model Performance</em>
+</p>
 
-<figure>
-  <img src="Inversion_graph.png" alt="Temperature Inversion Graph">
-  <figcaption>Temperature Inversion</figcaption>
-</figure>
+<p>
+  <img src="Inversion_graph.png" width="300" alt="Temperature Inversion Graph">
+  <br>
+  <em>Temperature Inversion</em>
+</p>
