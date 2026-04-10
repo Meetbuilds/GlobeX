@@ -1,6 +1,8 @@
 # GlobeX
 
-### I built a Machine Learing model to predict urban air entrapment using atmospheric variables.
+### This is a Machine Learing model to predict urban air entrapment using atmospheric variables.
+
+### Collected weather data from Copernicus Climate Dataset and CPCB.gov.in, cleaned, transformed integrated and preprocessed it to feed to the ML model
 
 ### While the model achieved an 86% $R^2$ in normal years, it failed during the 2020 lockdown, proving that weather only traps what humans emit.
 
